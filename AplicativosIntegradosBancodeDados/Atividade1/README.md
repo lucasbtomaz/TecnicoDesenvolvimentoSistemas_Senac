@@ -1,0 +1,3 @@
+## Contexto
+
+Sua empresa venceu a concorrência para desenvolver a nova plataforma de streaming de vídeos, a Cenaflix. Seu gestor organizou um time de desenvolvimento para iniciar o projeto e, após a realização da planning referente a primeira sprint, você foi designado para desenvolver a tela inicial do cadastro de vídeos. Sua entrega deve conter um campo para identificação numérica, um campo para o nome do filme, um campo para a data de lançamento e a categoria à qual ele pertence. A equipe de UX (user experience) desenvolveu o protótipo da tela na qual você deve se basear para a criação da interface de cadastro.
