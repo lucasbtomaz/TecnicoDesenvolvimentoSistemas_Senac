@@ -11,7 +11,7 @@ import java.awt.event.ActionListener;
 
 /**
  *
- * @author oluca
+ *  oluca
  */
 public class TelaIMC extends javax.swing.JFrame {
 

@@ -10,7 +10,7 @@ import java.sql.Date;
  * Classe que representa um filme.
  * Contém informações sobre o nome, categoria e data de lançamento do filme.
  * 
- * @author oluca
+ *  oluca
  */
 public class Filme {
 

@@ -15,7 +15,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author oluca
+ *  oluca
  */
 public class LojaApp {
     public static void main(String[] args) {

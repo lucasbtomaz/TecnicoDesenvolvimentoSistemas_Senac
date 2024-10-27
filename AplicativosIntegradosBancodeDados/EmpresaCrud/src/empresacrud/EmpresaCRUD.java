@@ -6,7 +6,7 @@ package empresacrud;
 
 /**
  *
- * @author oluca
+ *  oluca
  */
 public class EmpresaCRUD {
 

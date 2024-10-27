@@ -10,7 +10,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author oluca
+ *  oluca
  */
 public class DatabaseConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/cenaflix"; 

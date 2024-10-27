@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author oluca
+ *  oluca
  */
 public class TelaConsulta extends javax.swing.JFrame {
 

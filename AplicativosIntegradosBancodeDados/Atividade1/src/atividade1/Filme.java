@@ -8,7 +8,7 @@ import java.sql.Date;
 
 /**
  *
- * @author oluca
+ *  oluca
  */
 public class Filme {
     

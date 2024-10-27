@@ -6,7 +6,7 @@ package data;
 
 /**
  *
- * @author oluca
+ *  oluca
  */
 public class FuncionarioDao {
     

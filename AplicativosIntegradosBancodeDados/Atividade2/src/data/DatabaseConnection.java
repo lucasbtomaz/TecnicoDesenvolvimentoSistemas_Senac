@@ -12,7 +12,7 @@ import java.sql.SQLException;
  * Classe responsável por estabelecer a conexão com o banco de dados MySQL. Esta
  * classe fornece um método para obter a conexão com o banco de dados.
  *
- * @author oluca
+ *  oluca
  */
 public class DatabaseConnection {
 

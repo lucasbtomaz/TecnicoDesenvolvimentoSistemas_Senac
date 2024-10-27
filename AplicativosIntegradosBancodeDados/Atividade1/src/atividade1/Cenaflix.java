@@ -13,7 +13,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author oluca
+ *  oluca
  */
 public class Cenaflix extends javax.swing.JFrame {
 

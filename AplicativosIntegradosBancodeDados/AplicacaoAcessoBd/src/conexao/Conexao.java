@@ -6,7 +6,7 @@ package conexao;
 
 /**
  *
- * @author oluca
+ *  oluca
  */
 public class Conexao {
     // continua do minuto 24:07

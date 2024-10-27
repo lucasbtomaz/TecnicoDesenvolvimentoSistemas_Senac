@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author oluca
+ *  oluca
  */
 public class TelaCadastro extends javax.swing.JFrame {
 

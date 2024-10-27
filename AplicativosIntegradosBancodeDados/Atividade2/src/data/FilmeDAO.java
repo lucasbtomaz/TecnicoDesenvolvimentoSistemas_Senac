@@ -17,7 +17,7 @@ import java.util.List;
  * filmes. Inclui métodos para inserir, buscar, atualizar e excluir filmes no
  * banco de dados.
  *
- * @author oluca
+ *  oluca
  */
 public class FilmeDAO {
 

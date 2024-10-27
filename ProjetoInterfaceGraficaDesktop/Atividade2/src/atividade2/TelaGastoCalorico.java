@@ -6,7 +6,7 @@ package atividade2;
 
 /**
  *
- * @author oluca
+ *  oluca
  */
 public class TelaGastoCalorico extends javax.swing.JFrame {
 

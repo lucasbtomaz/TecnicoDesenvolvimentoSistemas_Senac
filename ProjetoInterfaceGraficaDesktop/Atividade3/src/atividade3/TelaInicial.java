@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author oluca
+ *  oluca
  */
 // Classe para a consulta
 class Consulta {

@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author oluca
+ *  oluca
  */
 public class TelaFuncionarios extends javax.swing.JFrame {
 

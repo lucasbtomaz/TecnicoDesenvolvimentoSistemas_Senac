@@ -16,7 +16,7 @@ import java.util.List;
  * Classe principal da aplicação Cenaflix, responsável pela interface gráfica
  * e gerenciamento de ações relacionadas aos filmes.
  * 
- * @author oluca
+ *  oluca
  */
 public class Cenaflix extends javax.swing.JFrame {
 

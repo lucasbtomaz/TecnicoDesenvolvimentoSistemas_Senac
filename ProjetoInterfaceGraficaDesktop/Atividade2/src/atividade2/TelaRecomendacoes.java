@@ -6,7 +6,7 @@ package atividade2;
 
 /**
  *
- * @author oluca
+ *  oluca
  */
 public class TelaRecomendacoes extends javax.swing.JFrame {
 

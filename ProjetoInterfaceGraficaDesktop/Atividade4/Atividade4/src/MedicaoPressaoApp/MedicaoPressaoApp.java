@@ -28,7 +28,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author oluca
+ *  oluca
  */
 public class MedicaoPressaoApp extends JFrame {
 
