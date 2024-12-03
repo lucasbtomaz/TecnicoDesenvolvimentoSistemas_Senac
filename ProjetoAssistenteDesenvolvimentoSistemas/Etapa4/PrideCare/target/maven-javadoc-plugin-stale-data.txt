@@ -1,0 +1,54 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/oluca/.m2/repository/org/hibernate/orm/hibernate-core/6.6.1.Final/hibernate-core-6.6.1.Final.jar;C:/Users/oluca/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/oluca/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar;C:/Users/oluca/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar;C:/Users/oluca/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar;C:/Users/oluca/.m2/repository/org/mindrot/jbcrypt/0.4/jbcrypt-0.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/oluca/SENAC/Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)/PrideCare/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/oluca/SENAC/Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)/PrideCare/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PrideCare 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PrideCare 1.0-SNAPSHOT API'
+br.com.pridecare.dao
+br.com.pridecare.gui
+br.com.pridecare.model
+br.com.pridecare
+C:\Users\oluca\.m2\repository\org\hibernate\orm\hibernate-core\6.6.1.Final\hibernate-core-6.6.1.Final.jar = 1729462641333
+C:\Users\oluca\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1729462641448
+C:\Users\oluca\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar = 1729462641973
+C:\Users\oluca\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar = 1729462763763
+C:\Users\oluca\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar = 1729462763860
+C:\Users\oluca\.m2\repository\org\mindrot\jbcrypt\0.4\jbcrypt-0.4.jar = 1729548268880
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\src\main\java = 1729902272042
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\target\reports\apidocs\allclasses-index.html = 1729914841952
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\target\reports\apidocs\allpackages-index.html = 1729914841955
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\target\reports\apidocs\element-list = 1729914841322
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\target\reports\apidocs\help-doc.html = 1729914842114
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\target\reports\apidocs\index-all.html = 1729914842091
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\target\reports\apidocs\index.html = 1729914841935
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\target\reports\apidocs\member-search-index.js = 1729914842040
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\target\reports\apidocs\module-search-index.js = 1729914841957
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\target\reports\apidocs\overview-summary.html = 1729914842099
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\target\reports\apidocs\overview-tree.html = 1729914841931
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\target\reports\apidocs\package-search-index.js = 1729914842028
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\target\reports\apidocs\search.html = 1729914842095
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\target\reports\apidocs\serialized-form.html = 1729914841641
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\target\reports\apidocs\tag-search-index.js = 1729914842044
+C:\Users\oluca\SENAC\Projeto Integrador Assistente de desenvolvimento de sistemas (660010849F)\PrideCare\target\reports\apidocs\type-search-index.js = 1729914842036

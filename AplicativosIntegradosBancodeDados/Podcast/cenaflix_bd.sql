@@ -102,6 +102,8 @@ INSERT INTO usuario (nome, login, senha, tipo) VALUES
 ('Luis', 'luis@email.com', '123', 'Operador');
 
 
-
+DELETE FROM podcasts WHERE id='aaa';
+USE cenaflix;
+SELECT * FROM podcasts;
 
 

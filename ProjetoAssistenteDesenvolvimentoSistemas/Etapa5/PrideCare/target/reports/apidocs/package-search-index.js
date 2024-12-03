@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.pridecare"},{"l":"br.com.pridecare.dao"},{"l":"br.com.pridecare.data"},{"l":"br.com.pridecare.entity"},{"l":"br.com.pridecare.gui"},{"l":"br.com.pridecare.model"}];updateSearchResults();

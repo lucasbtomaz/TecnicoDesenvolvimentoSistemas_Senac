@@ -1,3 +1,0 @@
-# Contexto
-
-Concluindo essa fase do projeto integrador (PI), chega o momento de foco na lógica do programa e no acesso a dados. Nesta etapa, você pode recuperar o banco de dados elaborado no PI do módulo 1 ou criar um novo banco de dados. Você deve usar Java para conectar seu projeto com esse banco, que deve estar povoado com dados iniciais para teste. As funcionalidades relativas a dados (cadastros, consultas etc.) também devem ser desenvolvidas ou completadas; qualquer código provisório usado apenas para testes deve ser eliminado e substituído por código definitivo.
